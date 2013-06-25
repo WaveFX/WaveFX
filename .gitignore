@@ -1,3 +1,3 @@
-src/wavefx/Main.jfx
+src/wavefx/WaveFX.jfx
+src/wavefx/resources/indicators/OsMAModIndicator.jfx
 logs/*
-
