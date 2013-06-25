@@ -23,7 +23,7 @@ import com.dukascopy.api.Period;
  *
  * @author WaveFX
  */
-public class Main implements IStrategy {
+public class WaveFX implements IStrategy {
 
     //Configurable parameters
     @Configurable("Instrument") public Instrument instrument = Instrument.EURUSD;  
